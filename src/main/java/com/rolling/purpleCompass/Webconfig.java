@@ -1,4 +1,4 @@
-package com.rolling.purplecompass;
+package com.rolling.purpleCompass;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;

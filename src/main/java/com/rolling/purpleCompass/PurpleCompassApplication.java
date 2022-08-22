@@ -1,13 +1,14 @@
-package com.rolling.purplecompass;
+package com.rolling.purpleCompass;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PurplecompassApplication {
+public class PurpleCompassApplication
+{
 
 	public static void main(String[] args) {
-		SpringApplication.run(PurplecompassApplication.class, args);
+		SpringApplication.run(PurpleCompassApplication.class, args);
 	}
 
 }
