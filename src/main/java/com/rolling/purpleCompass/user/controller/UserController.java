@@ -26,6 +26,10 @@ public class UserController
     @PostMapping("/signUp")
     public void signUp(@RequestBody Map<String, Object> map)
     {
+        System.out.println("Test");
+        System.out.println("Test");
+        System.out.println("Test");System.out.println("Test");
+
         Map<String, Object> result = map;
         userService.signUp(result);
     }
